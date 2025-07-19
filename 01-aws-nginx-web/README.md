@@ -75,6 +75,12 @@ systemctl restart nginx
 
 ✅ You should see your custom web page.
 
+## 🔍 Output Screenshot
+
+<img width="729" height="297" alt="image" src="https://github.com/user-attachments/assets/8588cd27-ca6a-4ef3-a195-5ffa2624d971" />
+
+
+
 ---
 
 ### 🔐 Optional: SSH into EC2
