@@ -1,0 +1,11 @@
+*.pem
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
+*.log
+*.bak
+.terraform.lock.hcl
+.aws
+*.zip
+*.exe
