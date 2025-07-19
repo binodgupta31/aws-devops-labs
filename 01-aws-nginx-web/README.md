@@ -99,7 +99,7 @@ ssh -i your-key.pem ec2-user@<your-public-ip>
 * You can pull code from GitHub/S3 in user data for dynamic deployment.
 
 
-![github](screenshots/web-output.png)
+https://github.com/binodgupta31/aws-devops-labs/blob/main/01-aws-nginx-web/screenshots/web-output.PNG
 
 
 
