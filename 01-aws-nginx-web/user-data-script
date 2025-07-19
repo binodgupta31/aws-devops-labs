@@ -1,0 +1,18 @@
+#!/bin/bash
+yum update -y
+amazon-linux-extras enable nginx1
+yum install nginx -y
+systemctl start nginx
+systemctl enable nginx
+
+cat > /usr/share/nginx/html/index.html <<EOF
+<html>
+  <head><title>Welcome</title></head>
+  <body>
+    <h1>My Website on Amazon Linux using Nginx</h1>
+    <p>Deployed automatically via EC2 user data script.</p>
+  </body>
+</html>
+EOF
+
+systemctl restart nginx
