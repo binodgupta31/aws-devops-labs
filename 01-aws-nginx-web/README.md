@@ -1,5 +1,9 @@
 ## 🚀 Host a Website on Amazon Linux 2 with Nginx (EC2 User Data Script)
 
+<img width="716" height="474" alt="image" src="https://github.com/user-attachments/assets/cea8bcc0-601f-443e-aec9-fa6becf84c64" />
+
+
+
 ### 📌 Project Goal
 
 Automate hosting a static website using **Amazon EC2 (t2.micro)** with **Amazon Linux 2**, **Nginx**, and a **user data script** inside **default VPC**.
