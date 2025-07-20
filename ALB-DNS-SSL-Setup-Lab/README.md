@@ -225,6 +225,12 @@ Open a browser and visit:
 * `http://groceryhub.tech` → should auto-redirect or serve content
 * `https://groceryhub.tech` → secured with SSL and NGINX welcome page
 
+<img width="648" height="335" alt="web-server-1-images" src="https://github.com/user-attachments/assets/f94bb101-f3aa-4358-a735-f6163126b949" />
+
+<img width="660" height="323" alt="web-server-2-image" src="https://github.com/user-attachments/assets/de4f8596-4d22-47ac-96ca-4b8c79506b93" />
+
+
+
 ---
 
 ## 🧹 Optional Cleanup (To Avoid Charges)
@@ -242,10 +248,7 @@ Open a browser and visit:
 ## 🧾 Credits
 
 * Prepared by: Binod Gupta
-* GitHub: \[Your GitHub URL Here]
-* Domain: `groceryhub.tech`
+* GitHub: https://github.com/binodgupta31/aws-devops-labs
+* LinkedIn: https://www.linkedin.com/in/binodgupta94/
 * Hosted on AWS Free Tier
 
----
-
-Would you like me to generate this as a downloadable `README.md` file for upload to GitHub?
